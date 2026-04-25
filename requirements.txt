@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pillow
+matplotlib
+tqdm
+optuna
+tensorboard
+pytorch-grad-cam
+colorlog
+requests
+typing-extensions
+ftfy
+regex
